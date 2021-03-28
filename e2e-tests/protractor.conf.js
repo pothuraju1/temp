@@ -1,4 +1,6 @@
 //jshint strict: false
+//test adding comments
+//test adding comments
 exports.config = {
 
   allScriptsTimeout: 11000,
